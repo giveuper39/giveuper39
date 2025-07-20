@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm studying on the third year of Saint Petersburg State University. <br>Currently working in VK as IaaS Engineer. 
+I'm studying on the fourth year of Saint Petersburg State University. <br>Currently working in VK Tech as Cloud Engineer. 
 
 
 # 💻 Tech Stack:
